@@ -1,0 +1,8 @@
+{
+  "label": "Catalog",
+  "position": 6,
+  "link": {
+    "type": "generated-index",
+    "description": "Describes an entity in the catalog."
+  }
+}

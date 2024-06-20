@@ -1,0 +1,8 @@
+{
+  "label": "API",
+  "position": 7,
+  "link": {
+    "type": "generated-index",
+    "description": "REST API endpoints and usage."
+  }
+}

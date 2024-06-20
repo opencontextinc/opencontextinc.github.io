@@ -1,0 +1,8 @@
+{
+  "label": "YAML File Format",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "Describes the shape and semantics of the entities in the catalog."
+  }
+}
